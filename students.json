@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "surname": "Smith",
+        "age": 20,
+        "address": {
+            "city": "Chicago",
+            "state": "Illinois"
+        },
+        "email": "john@smith.com"
+    },
+    {
+        "id": 2,
+        "name": "Leo",
+        "surname": "Grant",
+        "age": 26,
+        "address": {
+            "city": "Phoenix",
+            "state": "Arizona"
+        },
+        "email": "leo@grant.com"
+    },
+    {
+        "id": 3,
+        "name": "Ruby",
+        "surname": "May",
+        "age": 22,
+        "address": {
+            "city": "Santa Barbara",
+            "state": "California"
+        },
+        "email": "ruby@may.com"
+    },
+    {
+        "id": 4,
+        "name": "Lewis",
+        "surname": "James",
+        "age": 24,
+        "address": {
+            "city": "Aspen",
+            "state": "Colorado"
+        },
+        "email": "john@smith.com"
+    },
+    {
+        "id": 5,
+        "name": "Karina",
+        "surname": "Hobbs",
+        "age": 21,
+        "address": {
+            "city": "Lake City",
+            "state": "Florida"
+        },
+        "email": "Karina@hobbs.com"
+    }
+]
